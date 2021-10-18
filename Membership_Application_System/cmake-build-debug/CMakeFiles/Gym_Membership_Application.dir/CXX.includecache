@@ -1,0 +1,54 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shankar/Desktop/Intro To OOP/Gym_Membership_Application/Free.cpp
+Free.hpp
+/Users/shankar/Desktop/Intro To OOP/Gym_Membership_Application/Free.hpp
+
+/Users/shankar/Desktop/Intro To OOP/Gym_Membership_Application/Free.hpp
+User.hpp
+/Users/shankar/Desktop/Intro To OOP/Gym_Membership_Application/User.hpp
+
+/Users/shankar/Desktop/Intro To OOP/Gym_Membership_Application/Gold.hpp
+User.hpp
+/Users/shankar/Desktop/Intro To OOP/Gym_Membership_Application/User.hpp
+
+/Users/shankar/Desktop/Intro To OOP/Gym_Membership_Application/Silver.hpp
+User.hpp
+/Users/shankar/Desktop/Intro To OOP/Gym_Membership_Application/User.hpp
+
+/Users/shankar/Desktop/Intro To OOP/Gym_Membership_Application/User.hpp
+string
+-
+
+/Users/shankar/Desktop/Intro To OOP/Gym_Membership_Application/User_Inventory.cpp
+User_Inventory.hpp
+/Users/shankar/Desktop/Intro To OOP/Gym_Membership_Application/User_Inventory.hpp
+
+/Users/shankar/Desktop/Intro To OOP/Gym_Membership_Application/User_Inventory.hpp
+vector
+-
+Free.hpp
+/Users/shankar/Desktop/Intro To OOP/Gym_Membership_Application/Free.hpp
+Silver.hpp
+/Users/shankar/Desktop/Intro To OOP/Gym_Membership_Application/Silver.hpp
+Gold.hpp
+/Users/shankar/Desktop/Intro To OOP/Gym_Membership_Application/Gold.hpp
+iostream
+-
+string
+-
+
+/Users/shankar/Desktop/Intro To OOP/Gym_Membership_Application/main.cpp
+iostream
+-
+vector
+-
+User_Inventory.hpp
+/Users/shankar/Desktop/Intro To OOP/Gym_Membership_Application/User_Inventory.hpp
+
